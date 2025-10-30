@@ -113,6 +113,3 @@ Estimated Total Size (MB): 12.82
 
 ## 👨‍💻 Author
 Abishek Satnur
-
-## 📝 License
-MIT License
